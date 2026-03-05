@@ -9,4 +9,4 @@ Given two strings (`secret` and `guess`) of the same length, this program counts
 
 ## How to run
 ```bash
-python main.py
+Exam Evaluator/codedex-1-wordle-guess.py
