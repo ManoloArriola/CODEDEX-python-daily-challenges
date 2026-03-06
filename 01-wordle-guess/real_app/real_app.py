@@ -2,7 +2,16 @@ import json
 import os
 
 def load_questions(filename):
-    """Load questions from a JSON file."""
+    """
+    Load questions from a JSON file.
+
+    Parameters:
+        filename (str): Path to the JSON file.
+
+    Returns:
+        list: A list of question dictionaries.
+    """
+
     with open(filename, "r", encoding="utf-8") as file:
         return json.load(file)
 
