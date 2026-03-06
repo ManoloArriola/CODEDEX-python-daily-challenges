@@ -16,5 +16,77 @@
       "c": "C++"
     },
     "correct": "a"
+  },
+  {
+    "question": "Which data type is used to store text in Python?",
+    "options": {
+      "a": "int",
+      "b": "str",
+      "c": "bool"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": {
+      "a": "Central Processing Unit",
+      "b": "Computer Power Utility",
+      "c": "Central Program Unit"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a web framework for Python?",
+    "options": {
+      "a": "Flask",
+      "b": "React",
+      "c": "Laravel"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": {
+      "a": "//",
+      "b": "#",
+      "c": "/* */"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": {
+      "a": "Random Access Memory",
+      "b": "Read And Modify",
+      "c": "Rapid Action Module"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a valid Python loop?",
+    "options": {
+      "a": "repeat",
+      "b": "loop",
+      "c": "for"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which file extension is used for JSON files?",
+    "options": {
+      "a": ".json",
+      "b": ".jsn",
+      "c": ".txt"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which operator is used for equality comparison in Python?",
+    "options": {
+      "a": "=",
+      "b": "==",
+      "c": "==="
+    },
+    "correct": "b"
   }
 ]

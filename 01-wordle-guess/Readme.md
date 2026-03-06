@@ -1,12 +1,25 @@
-# Day 1 — Wordle Guess (Codédex Daily Challenge)
+# 01 - Wordle Guess
 
-Given two strings (`secret` and `guess`) of the same length, this program counts how many characters match in the exact same position.
+This folder contains two parts:
 
-## Example
-- secret = `CODEX`
-- guess  = `COINS`
-- output = `2`
+## challenge_solution
+Original Codédex challenge solution:
+Compare two strings and count how many characters match in the same position.
 
-## How to run
+## real_app
+A practical quiz evaluator built from the same comparison logic.
+
+### Real-world idea
+Instead of comparing letters, this app compares:
+- correct answers
+- user answers
+
+using `zip()` to calculate the final score.
+
+### Files
+- `questions.json` → stores the quiz questions and correct answers
+- `main.py` → runs the quiz app
+
+### Run the app
 ```bash
-codedex-1-wordle-guess.py
+python main.py
