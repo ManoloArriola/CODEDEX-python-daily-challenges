@@ -56,11 +56,17 @@ def show_results(questions, user_answers, score):
     print("\n--- Review ---")
     for i, (item, user) in enumerate(zip(questions, user_answers), start=1):
         correct = item["correct"]
+
         if user == correct:
             print(f"Question {i}: Correct")
         else:
-            print(f"Question {i}: Incorrect | Your answer: {user} | Correct answer: {correct}")
-
+            user_text = item["options"][user]
+            correct_text = item["options"][correct]
+            print(
+                f"Question {i}: Incorrect | "
+                f"Your answer: {user} ({user_text}) | "
+                f"Correct answer: {correct} ({correct_text})"
+            )
 
 def main():
     """Main program flow."""
