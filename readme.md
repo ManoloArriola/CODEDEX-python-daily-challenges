@@ -23,17 +23,17 @@ The goal of this lab is to strengthen **algorithmic thinking, Python fundamental
 
 Each project follows a consistent structure:
 
-challenge_name/
-│
-├── challenge_solution/
-│   ├── challenge_instructions.md
-│   └── main.py
-│
-├── real_app/
-│   ├── app.py
-│   └── data.json
-│
-└── README.md
+    challenge_name/
+    │
+    ├── challenge_solution/
+    │   ├── challenge_instructions.md
+    │   └── main.py
+    │
+    ├── real_app/
+    │   ├── app.py
+    │   └── data.json
+    │
+    └── README.md
 
 
 The **challenge_solution** folder focuses on algorithmic logic.  
