@@ -97,3 +97,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    ###Future changes: Export to *.csv; add more kind of pills; turn into app with Flask maybe
