@@ -1,6 +1,13 @@
 # Python Algorithms Lab
 ### Transforming daily coding challenges into practical Python applications
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Learning%20Project-green)
+![Algorithms](https://img.shields.io/badge/Focus-Algorithms-orange)
+![Applications](https://img.shields.io/badge/Focus-Real%20World%20Apps-purple)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
+
 This repository documents my learning journey solving daily coding challenges and converting them into **real-world Python applications**.
 
 Each challenge contains two parts:
@@ -35,20 +42,44 @@ The **real_app** folder demonstrates how the same logic can solve real-world pro
 ---
 
 # Projects
+## Projects
 
-| # | Challenge | Real Application | Core Concept |
-|---|---|---|---|
-| 1 | Wordle Guess | Exam Evaluation Tool | List comparison |
-| 2 | Blood Moon | Medication Reminder | Time intervals |
-| 3 | Holi Colors | Dataset Completeness Checker | Set operations |
-| 4 | Altair Music | CPU Instruction Decoder | Binary conversion |
-| 5 | Figure Skating Score | Employee Performance Evaluator | Averaging & outlier removal |
-| 6 | Sleep Debt | Employee Wellness Tracker | Streak analysis |
-| 7 | Women in Tech Trend | KPI Trend Analyzer / Financial Growth Tracker | Trend analysis |
-| 8 | Sputnik Descent | Delivery Cost Estimator | Piecewise calculations |
-| 9 | Unique Words | Spam Detection Preprocessor | Text processing |
+| # | Challenge | Real Application | Core Concept | Status |
+|---|---|---|---|---|
+| 1 | Wordle Guess | Exam Evaluation Tool | List comparison | ✅ |
+| 2 | Blood Moon | Medication Reminder | Time intervals | 🚧 |
+| 3 | Holi Colors | Dataset Completeness Checker | Set operations | ⏳ |
+| 4 | Altair Music | CPU Instruction Decoder | Binary conversion | ⏳ |
+| 5 | Figure Skating Score | Employee Performance Evaluator | Averaging & outliers | ⏳ |
+| 6 | Sleep Debt | Employee Wellness Tracker | Streak analysis | ⏳ |
+| 7 | Women in Tech Trend | KPI Trend Analyzer | Trend analysis | ⏳ |
+| 8 | Sputnik Descent | Delivery Cost Estimator | Piecewise functions | ⏳ |
+| 9 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
 
 ---
+## Laboratory Progress
+
+This lab is built from daily coding challenges where each algorithm is expanded into a practical tool.
+
+Current progress:
+
+Completed challenges: 2 / 9  
+Applications implemented: 2  
+Concepts practiced: Lists, sets, loops, text processing, JSON handling
+
+## Skills Practiced
+
+This laboratory focuses on strengthening core Python skills:
+
+- Python fundamentals
+- Algorithmic thinking
+- Data structures (lists, dictionaries, sets)
+- Data comparison
+- JSON data handling
+- Text processing
+- Trend analysis
+- Time calculations
+- Real-world problem modeling
 
 # Concepts Practiced
 

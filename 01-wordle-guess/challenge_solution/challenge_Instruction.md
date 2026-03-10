@@ -1,8 +1,5 @@
 Wordle 🟩
 March 2, 2026
-·
-14
-0
 
 Welcome to Codédex's brand new Daily Code Challenge! It's Day 1! ◡̈
 
