@@ -19,11 +19,12 @@ Each project follows a consistent structure:
 challenge_name/
 │
 ├── challenge_solution/
-│ ├── challenge_instructions.md
-│ └── main.py
+│   ├── challenge_instructions.md
+│   └── main.py
 │
 ├── real_app/
-│ └── application_code.py
+│   ├── app.py
+│   └── data.json
 │
 └── README.md
 
