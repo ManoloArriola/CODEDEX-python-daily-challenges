@@ -55,7 +55,27 @@ The **real_app** folder demonstrates how the same logic can solve real-world pro
 | 7 | Women in Tech Trend | KPI Trend Analyzer | Trend analysis | ⏳ |
 | 8 | Sputnik Descent | Delivery Cost Estimator | Piecewise functions | ⏳ |
 | 9 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
-
+| 10 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
+| 11 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
+| 12 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
+| 13 | ? | ? | ? | ⏳ |
+| 14 | ? | ? | ? | ⏳ |
+| 15 | ? | ? | ? | ⏳ |
+| 16 | ? | ? | ? | ⏳ |
+| 17 | ? | ? | ? | ⏳ |
+| 18 | ? | ? | ? | ⏳ |
+| 19 | ? | ? | ? | ⏳ |
+| 20 | ? | ? | ? | ⏳ |
+| 21 | ? | ? | ? | ⏳ |
+| 22 | ? | ? | ? | ⏳ |
+| 23 | ? | ? | ? | ⏳ |
+| 24 | ? | ? | ? | ⏳ |
+| 25 | ? | ? | ? | ⏳ |
+| 26 | ? | ? | ? | ⏳ |
+| 27 | ? | ? | ? | ⏳ |
+| 28 | ? | ? | ? | ⏳ |
+| 29 | ? | ? | ? | ⏳ |
+| 30 | ? | ? | ? | ⏳ |
 ---
 ## Laboratory Progress
 
