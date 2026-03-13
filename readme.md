@@ -55,9 +55,9 @@ The **real_app** folder demonstrates how the same logic can solve real-world pro
 | 7 | Women in Tech Trend | KPI Trend Analyzer | Trend analysis | ⏳ |
 | 8 | Sputnik Descent | Delivery Cost Estimator | Piecewise functions | ⏳ |
 | 9 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
-| 10 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
-| 11 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
-| 12 | Unique Words | Spam Detector Preprocessor | Text processing | ⏳ |
+| 10 |Hitchjiker's guide | - | - | ⏳ |
+| 11 | Url validator | - | - | ⏳ |
+| 12 | Palindrome | - | - | ⏳ |
 | 13 | ? | ? | ? | ⏳ |
 | 14 | ? | ? | ? | ⏳ |
 | 15 | ? | ? | ? | ⏳ |
