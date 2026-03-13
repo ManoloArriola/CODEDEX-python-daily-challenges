@@ -1,4 +1,3 @@
-
 ```markdown
 # Data Symmetry Analyzer
 
@@ -18,3 +17,22 @@ It expands the original palindrome challenge into a practical data-processing ut
 ---
 
 ## Example Dataset
+
+
+racecar
+level
+manolo
+taco cat
+12321
+hello
+
+
+Output:
+
+
+racecar → palindrome
+level → palindrome
+manolo → not palindrome
+taco cat → palindrome
+12321 → palindrome
+hello → not palindrome
