@@ -34,4 +34,22 @@ Return:
 
 ## Example
 
-Input:
+Input: Was it a car or a cat I saw
+
+
+Output:
+
+
+True
+
+
+---
+
+## Python Solution
+
+```python
+def check_palindrome(sequence):
+
+    cleaned = sequence.lower().replace(" ", "")
+
+    return cleaned == cleaned[::-1]
